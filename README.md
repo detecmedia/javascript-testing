@@ -5,4 +5,4 @@ Run
 `npm install`
 
 Run 
-`./test-js.sh`  
+`npm run-script test`  
